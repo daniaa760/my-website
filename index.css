@@ -1,0 +1,15 @@
+img{
+  border-radius: 50%;
+  width: 10%;
+  height: 10%;
+}
+
+h1,h2 {
+  font-family: 'Big Shoulders Stencil Display', cursive;
+  color: pink;
+}
+
+h3, p {
+   font-family: 'Big Shoulders Stencil Display', cursive;
+  font-weight: 100;
+}
